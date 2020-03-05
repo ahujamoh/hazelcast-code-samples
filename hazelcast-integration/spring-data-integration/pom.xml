@@ -15,7 +15,7 @@
     <name>Spring Data Integration</name>
 
     <properties>
-        <org.mongodb.version>2.7.3</org.mongodb.version>
+        <org.mongodb.version>3.12.2</org.mongodb.version>
         <org.springframework.data.mongodb>1.0.1.RELEASE</org.springframework.data.mongodb>
     </properties>
 
